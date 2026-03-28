@@ -1,6 +1,14 @@
 # VIDEO TYPE 9: PRICE LIST - Daftar Harga (6 Variations)
 
+---
+
 ## Video 9-1: Daftar Harga Mesin Jahit Portable
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 45s) |
+| **Product** | A1-A6 (All Portable Machines) |
+
 **Title:** "DAFTAR HARGA Mesin Jahit Portable 2026 - Mulai dari Rp [X]! 💰"
 **Script:**
 "Daftar harga mesin jahit portable terbaru 2026:
@@ -11,7 +19,15 @@
 Harga bisa berubah, chat untuk harga terbaru!
 Semua bergaransi, free ongkir area [KOTA]."
 
+---
+
 ## Video 9-2: Daftar Harga Mesin Jahit Industri
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 45s) |
+| **Product** | B1-B6 (All Industrial Machines) |
+
 **Title:** "HARGA Mesin Jahit Industri 2026 - Paket Lengkap! 🏭"
 **Script:**
 "Daftar harga mesin jahit industri 2026:
@@ -21,7 +37,15 @@ Semua bergaransi, free ongkir area [KOTA]."
 - Paket lengkap (meja + motor): tambah Rp 1,5 juta
 Cicilan tersedia! Chat untuk penawaran khusus."
 
+---
+
 ## Video 9-3: Daftar Harga Spare Parts
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 45s) |
+| **Product** | C1-C10 (All Spare Parts) |
+
 **Title:** "DAFTAR HARGA Spare Parts Mesin Jahit - LENGKAP! 🔧"
 **Script:**
 "Daftar harga spare parts mesin jahit:
@@ -33,7 +57,15 @@ Cicilan tersedia! Chat untuk penawaran khusus."
 - Kaki mesin (presser feet): Rp 15rb - 100rb
 Paket hemat tersedia! Beli banyak lebih murah."
 
+---
+
 ## Video 9-4: Promo Spesial Bulan Ini
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | All Products |
+
 **Title:** "PROMO BESAR-BESARAN! Diskon Mesin Jahit Hingga 30%! 🔥"
 **Script:**
 "PROMO SPESIAL bulan ini!
@@ -44,7 +76,15 @@ Paket hemat tersedia! Beli banyak lebih murah."
 Berlaku sampai tanggal [TANGGAL] atau selama stok ada.
 Chat SEKARANG sebelum kehabisan!"
 
+---
+
 ## Video 9-5: Paket Hemat untuk Pemula
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 45s) |
+| **Product** | A1+C1+C2+C5 (Brother + Jarum + Benang + Presser Feet) |
+
 **Title:** "PAKET HEMAT Pemula - Mesin Jahit + Spare Parts + Benang! 📦"
 **Script:**
 "Paket hemat untuk pemula:
@@ -57,7 +97,15 @@ Isi paket:
 Harga paket: Rp [X] (hemat Rp [X]rb dibanding beli satuan!)
 Limited stock, order sekarang!"
 
+---
+
 ## Video 9-6: Cicilan Mesin Jahit
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | A1, A2, B1 (Brother, Singer, Typical) |
+
 **Title:** "Bisa CICIL! Mesin Jahit Impian Kamu dengan Cicilan Ringan 💳"
 **Script:**
 "Mau mesin jahit bagus tapi budget terbatas?

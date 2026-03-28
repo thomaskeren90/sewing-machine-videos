@@ -1,6 +1,14 @@
 # VIDEO TYPE 13: MYTH BUSTERS (6 Variations)
 
+---
+
 ## Video 13-1: Mesin Jahit Murah Pasti Jelek?
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | A6. Portable Multifungsi |
+
 **Title:** "MITOS: Mesin Jahit Murah Pasti Jelek?! FAKTA: Ternyata... 🤔"
 **Script:**
 "Banyak orang bilang: mesin jahit murah pasti jelek.
@@ -9,7 +17,15 @@ Yang penting: brand terpercaya, garansi resmi, spare parts mudah dapat.
 Kami jual mesin dari 500rb sampai puluhan juta, semua bergaransi!
 Murah bukan berarti murahan, asal pilih yang tepat."
 
+---
+
 ## Video 13-2: Mesin Jahit Industri Hanya untuk Pabrik?
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | B1. Typical GC-0303 |
+
 **Title:** "MITOS: Mesin Industri Hanya untuk Pabrik?! Salah! 🏭"
 **Script:**
 "Banyak yang pikir mesin industri hanya untuk pabrik besar.
@@ -18,7 +34,15 @@ Kelebihan: lebih cepat, lebih kuat, hasil lebih rapi.
 Kalau orderan kamu sudah banyak, pertimbangkan mesin industri.
 Kami jual mesin industri untuk semua skala usaha!"
 
+---
+
 ## Video 13-3: Spare Parts Asli vs KW?
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | C1-C10 (Spare Parts) |
+
 **Title:** "Spare Parts KW Pasti Buruk?! Ini Faktanya! 🔧"
 **Script:**
 "Ada anggapan spare parts KW pasti jelek.
@@ -27,7 +51,15 @@ Yang penting: bahan material, presisi, dan daya tahan.
 Kami jual spare parts original DAN yang berkualitas bagus dengan harga terjangkau.
 Tanya kami untuk rekomendasi terbaik!"
 
+---
+
 ## Video 13-4: Mesin Jahit Lama Tidak Bisa Diperbaiki?
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | C1-C10 (Spare Parts for Old Machines) |
+
 **Title:** "MITOS: Mesin Tua Sudah Tidak Bisa Dipakai?! WRONG! 👴"
 **Script:**
 "Mesin jahit tua = tidak berguna? SALAH BESAR!
@@ -36,7 +68,15 @@ Masalahnya cuma spare parts yang aus.
 Dengan spare parts yang tepat, mesin 30 tahun bisa hidup lagi!
 Kami punya spare parts untuk mesin tua, chat kami!"
 
+---
+
 ## Video 13-5: Benang Mahal Pasti Lebih Baik?
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | C2. Benang |
+
 **Title:** "Benang Mahal = Lebih Bagus?! Belum Tentu! 🧵"
 **Script:**
 "Benang mahal pasti lebih baik? Tidak selalu!
@@ -45,7 +85,15 @@ Benang polyester harga terjangkau sudah cukup untuk 90% keperluan.
 Benang mahal hanya untuk keperluan khusus seperti sulaman atau bahan mewah.
 Pilih benang sesuai kebutuhan, bukan sesuai harga!"
 
+---
+
 ## Video 13-6: Mesin Jahit Otomatis Tidak Perlu Skill?
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | A3. Juki HZL-K85 |
+
 **Title:** "Mesin Otomatis = Langsung Bisa Jahit?! MITOS! 🤖"
 **Script:**
 "Beli mesin jahit otomatis, langsung bisa jahit? Tidak!

@@ -1,6 +1,14 @@
 # VIDEO TYPE 6: TIPS & TRICKS - Tips Merawat Mesin Jahit (6 Variations)
 
+---
+
 ## Video 6-1: 5 Tips Agar Mesin Jahit Awet
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | C8. Oli + C10. Cover |
+
 **Title:** "5 Tips Bikin Mesin Jahit Awet 10 Tahun+! 💪"
 **Script:**
 "Mau mesin jahit awet? Ikuti 5 tips ini:
@@ -11,7 +19,15 @@
 5. Ganti jarum setiap 8 jam pemakaian.
 Simpel kan? Perawatan kecil, hasil besar!"
 
+---
+
 ## Video 6-2: Cara Menyimpan Mesin Jahit
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | C10. Cover/Sarung |
+
 **Title:** "Cara Simpan Mesin Jahit yang Benar - Jangan Asal Taruh! 📦"
 **Script:**
 "Menyimpan mesin jahit juga ada caranya:
@@ -22,7 +38,15 @@ Simpel kan? Perawatan kecil, hasil besar!"
 5. Jangan ditumpuk barang berat di atasnya.
 Cover mesin jahit tersedia di toko kami!"
 
+---
+
 ## Video 6-3: Cara Membersihkan Mesin Jahit
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | C8. Oli Mesin Jahit |
+
 **Title:** "Bersihkan Mesin Jahit dalam 5 Menit! Gampang Banget 🧹"
 **Script:**
 "Mesin jahit kotor? Bersihkan dalam 5 menit:
@@ -33,7 +57,15 @@ Cover mesin jahit tersedia di toko kami!"
 5. Oli di titik-titik yang disarankan.
 Kuas pembersih mesin jahit tersedia di toko!"
 
+---
+
 ## Video 6-4: Kapan Harus Ganti Jarum
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | C1. Jarum |
+
 **Title:** "Tanda Mesin Jahit Perlu Ganti Jarum - Jangan Tunggu Rusak! 📌"
 **Script:**
 "Kapan ganti jarum? Perhatikan tanda-tandanya:
@@ -44,7 +76,15 @@ Kuas pembersih mesin jahit tersedia di toko!"
 Idealnya: ganti setiap proyek baru atau 8 jam pemakaian.
 Jarum cadangan selalu siap, beli di toko kami!"
 
+---
+
 ## Video 6-5: Tips Memilih Benang yang Tepat
+| Field | Detail |
+|-------|--------|
+| **Duration** | 30-45 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | C2. Benang |
+
 **Title:** "Jangan Salah Pilih Benang! Ini Panduan Lengkapnya 🧵"
 **Script:**
 "Memilih benang itu penting lho!
@@ -54,7 +94,15 @@ Untuk bahan tebal: pakai benang tebal (heavy duty).
 Untuk jahit dekorasi: pakai benang warna-warni.
 Paket benang lengkap tersedia di toko kami!"
 
+---
+
 ## Video 6-6: Tips Mengatur Tension Benang
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "Rahasia Tension Benang yang Sempurna! ⚖️"
 **Script:**
 "Tension benang salah = jahitan kusut atau tidak rata.

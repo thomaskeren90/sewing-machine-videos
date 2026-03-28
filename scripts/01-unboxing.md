@@ -1,6 +1,14 @@
 # VIDEO TYPE 1: UNBOXING - Mesin Jahit Baru (6 Variations)
 
+---
+
 ## Video 1-1: Unboxing Mesin Jahit Portable
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "UNBOXING Mesin Jahit Portable! Cocok untuk Pemula 🔥"
 **Alt Titles:**
 - "Buka Kotak Mesin Jahit Portable - Harga Terjangkau!"
@@ -25,6 +33,12 @@ Jangan lupa follow dan like ya!"
 ---
 
 ## Video 1-2: Unboxing Mesin Jahit Industri
+| Field | Detail |
+|-------|--------|
+| **Duration** | 90-120 detik |
+| **Post On** | YouTube (full) + TikTok (short 45s) |
+| **Product** | B1. Typical GC-0303 |
+
 **Title:** "UNBOXING Mesin Jahit Industri - Beast Mode! 💪"
 **Alt Titles:**
 - "Mesin Jahit Industri Baru Datang! Siap Produksi"
@@ -46,6 +60,12 @@ Mau mesin yang sama? Stok terbatas, chat kami sekarang!"
 ---
 
 ## Video 1-3: Unboxing Mesin Jahit Brother
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "UNBOXING Brother [MODEL] - Mesin Jahit Terlaris 2026!"
 **Alt Titles:**
 - "Brother [MODEL] Baru! Unboxing & First Look"
@@ -67,6 +87,12 @@ Untuk harga dan promo, langsung chat aja ya!"
 ---
 
 ## Video 1-4: Unboxing Mesin Jahit Mini/Portable Kecil
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | A4. Mesin Mini Portable |
+
 **Title:** "Mesin Jahit Mini Sekecil Ini?! Unboxing & Test! 😱"
 **Alt Titles:**
 - "UNBOXING Mesin Jahit Mini - Seukuran Telapak Tangan!"
@@ -88,6 +114,12 @@ Harganya sangat terjangkau, cek link di bio!"
 ---
 
 ## Video 1-5: Unboxing Mesin Jahit Singer
+| Field | Detail |
+|-------|--------|
+| **Duration** | 60-90 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | A2. Singer Heavy Duty 4423 |
+
 **Title:** "UNBOXING Singer Heavy Duty 4423 - Mesin Jahit Kuat!"
 **Alt Titles:**
 - "Singer 4423 Heavy Duty Unboxing - Terkenal Kuat!"
@@ -109,6 +141,12 @@ Stok terbatas, langsung order ya!"
 ---
 
 ## Video 1-6: Unboxing Mesin Jahit untuk Bisnis/UMKM
+| Field | Detail |
+|-------|--------|
+| **Duration** | 90-120 detik |
+| **Post On** | YouTube (full) + TikTok (short 45s) |
+| **Product** | B6. Paket Industri Lengkap |
+
 **Title:** "UNBOXING Paket Lengkap Mesin Jahit untuk Bisnis! 📦"
 **Alt Titles:**
 - "Buka Paket Usaha Jahit - Siap Produksi!"

@@ -1,6 +1,14 @@
 # VIDEO TYPE 14: TRENDING/VIRAL STYLE (6 Variations)
 
+---
+
 ## Video 14-1: POV Style
+| Field | Detail |
+|-------|--------|
+| **Duration** | 15-30 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "POV: Kamu Beli Mesin Jahit Pertama Kali 😍"
 **Script:**
 "POV: Kamu beli mesin jahit pertama kali.
@@ -10,9 +18,16 @@
 [Jahitan pertama! Rasa bangga!]
 Rasanya seperti ini! Mau merasakan yang sama?
 Mesin jahit untuk pemula tersedia di toko kami!"
-**Format:** Vertical, POV angle
+
+---
 
 ## Video 14-2: Before/After Transition
+| Field | Detail |
+|-------|--------|
+| **Duration** | 15-30 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "Dari Tidak Bisa Jahit → Bikin Baju Sendiri! 🔥"
 **Script:**
 "[Hari 1] Beli mesin jahit pertama.
@@ -21,9 +36,16 @@ Mesin jahit untuk pemula tersedia di toko kami!"
 [Hari 90] Bikin baju sendiri!
 Semua berawal dari satu mesin jahit.
 Mulai perjalanan jahitmu, beli mesin di toko kami!"
-**Format:** Transition cuts, trending audio
+
+---
 
 ## Video 14-3: ASMR Mesin Jahit
+| Field | Detail |
+|-------|--------|
+| **Duration** | 15-30 detik |
+| **Post On** | TikTok (primary) |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "ASMR Mesin Jahit - Suara Memuaskan! 🎧"
 **Script:**
 [No talking, just sounds]
@@ -31,9 +53,16 @@ Mulai perjalanan jahitmu, beli mesin di toko kami!"
 [Sound of needle going through fabric]
 [Sound of finished seam]
 [Whisper: "Mesin jahit [BRAND], tersedia di toko kami"]
-**Format:** Close-up shots, satisfying sounds
+
+---
 
 ## Video 14-4: Day in the Life
+| Field | Detail |
+|-------|--------|
+| **Duration** | 45-60 detik |
+| **Post On** | YouTube (full) + TikTok (short 30s) |
+| **Product** | All Products (Brand Story) |
+
 **Title:** "Sehari di Toko Mesin Jahit Kami! 📆"
 **Script:**
 "Jam 8: Buka toko, cek stok.
@@ -44,7 +73,15 @@ Jam 3: Kirim pesanan ke ekspedisi.
 Jam 5: Bersihkan toko, tutup.
 Seru kan kerja di dunia mesin jahit?!"
 
+---
+
 ## Video 14-5: "Things That Just Make Sense"
+| Field | Detail |
+|-------|--------|
+| **Duration** | 15-20 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | C1+C2+C10 (Jarum + Benang + Cover) |
+
 **Title:** "Hal yang Masuk Akal untuk Pecinta Jahit! ✅"
 **Script:**
 "Things that just make sense:
@@ -53,9 +90,16 @@ Seru kan kerja di dunia mesin jahit?!"
 - Beli benang warna-warni (meskipun belum butuh)
 - Spare parts lengkap untuk mesin kesayangan
 Setuju? Tag teman kamu yang suka jahit!"
-**Format:** Text overlay on product shots
+
+---
 
 ## Video 14-6: "Wait for It" Reveal
+| Field | Detail |
+|-------|--------|
+| **Duration** | 15-30 detik |
+| **Post On** | TikTok (primary) + YouTube Shorts |
+| **Product** | A1. Brother GS2700 |
+
 **Title:** "Tunggu Sampai Akhir... Hasilnya WOW! 😱"
 **Script:**
 [Bahan kusut dan jelek di awal]
@@ -65,4 +109,3 @@ Setuju? Tag teman kamu yang suka jahit!"
 "Hasilnya?! WOW kan!
 Mesin jahit yang tepat = hasil yang sempurna.
 Beli mesin di toko kami!"
-**Format:** Suspense buildup, satisfying reveal
