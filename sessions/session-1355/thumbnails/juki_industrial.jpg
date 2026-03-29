@@ -1,0 +1,946 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <script src="https://cdn-au.onetrust.com/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="018ec175-00b2-7a13-af91-83784dc93cad" ></script>
+    <script type="text/javascript">
+    function OptanonWrapper() { }
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>ご指定のページが見つかりません｜JUKI</title>
+    <link rel="canonical" href="https://www.juki.co.jp/404.html">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/assets/styles/main.css" />
+    <script src="/assets/scripts/bundle.js" defer></script>
+    <meta property="og:site_name" content="JUKI">
+    <meta property="og:title" content="ご指定のページが見つかりません｜JUKI">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.juki.co.jp/assets/images/common/og.png">
+    <meta property="og:url" content="https://www.juki.co.jp/404.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NB34D9F2');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body id="top">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NB34D9F2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="wrapper">
+
+<header class="header" x-data="{ menuOpen: false }" :class="menuOpen ? '-menuopen': ''">
+  <div class="header__inner">
+    <div class="header__row">
+      <p class="header__logo">
+        <a href="/"><img src="/assets/images/header/logo.svg" width="138" height="24" alt="JUKI株式会社" /></a>
+      </p>
+      <nav class="header-nav js-header-nav"><ul class="header-nav__list">
+      <li class="header-nav__item">
+          <a href="/news/" class="header-nav__link"><span class="header-nav__label -label6">ニュース</span></a>
+          </li>
+  <li class="header-nav__item js-submenu-trigger">
+    <a href="/company/" class="header-nav__link js-submenu-link"
+      ><span class="header-nav__label -label1"><span>企業</span><span>情報</span></span></a
+    >
+    <div class="header-submenu js-submenu-parent">
+      <div class="header-submenu__bg">
+        <div class="header-submenu__inner js-submenu-child">
+          <dl class="header-submenu__list">
+            <dt class="header-submenu__head">
+              <a href="/company/">企業情報<j-link-icon shape="circle"></j-link-icon></a>
+            </dt>
+            <dd class="header-submenu__content">
+              <div class="header-submenu__row">
+                <div class="header-submenu__col -col1">
+                  <ul class="header-submenu-list">
+                    <li><a href="/company/message.html">トップメッセージ</a></li>
+                    <li><a href="/company/about.html">JUKI's Value Creation</a></li>
+                    <li><a href="/company/philosophy.html">JUKIグループ経営理念</a></li>
+                    <li><a href="/company/dx.html">DX（データドリブン経営）</a></li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li><a href="/company/hr.html">人材力強化</a></li>
+                    <li><a href="/company/design-strategy.html">デザイン戦略</a></li>
+                    <li><a href="/company/overview.html">会社概要</a></li>
+                    <li><a href="/company/officer.html">役員体制</a></li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li><a href="/business/">事業紹介</a></li>
+                    <li><a href="/company/group.html">グループ拠点</a></li>
+                    <li><a href="/company/history.html">沿革</a></li>
+                    <li><a href="/company/access.html">アクセス</a></li>
+                  </ul>
+                </div>
+                <div class="header-submenu__col -col2">
+                  <ul class="header-other-links">
+                    <li><a href="https://www.juki.co.jp/showroom/" target="_blank">JUKIショールーム見学のご案内</a></li>
+                  </ul>
+                 <p class="header-submenu__banner"><a href="/company/about.html"><img src="/assets/images/common/header-banner.png" alt="JUKI's Value Creation 持続可能な未来を創造するために"></a></p>
+                </div>
+              </div>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="header-nav__item js-submenu-trigger">
+    <a href="/business/" class="header-nav__link js-submenu-link"
+      ><span class="header-nav__label -label2"><span>事業</span><span>紹介</span></span></a
+    >
+
+    <div class="header-submenu js-submenu-parent">
+      <div class="header-submenu__bg">
+        <div class="header-submenu__inner js-submenu-child">
+          <dl class="header-submenu__list">
+            <dt class="header-submenu__head">
+              <a href="/business/">事業紹介<j-link-icon shape="circle"></j-link-icon></a>
+            </dt>
+            <dd class="header-submenu__content">
+              <div class="header-submenu__row">
+                <div class="header-submenu__col -col1">
+                  <ul class="header-submenu-list">
+                    <li><a href="/business/industrial/">工業用ミシン事業</a></li>
+                    <li><a href="/business/home-sewing/">家庭用ミシン事業</a></li>
+                    <li><a href="/business/smt-business/">産業装置事業</a></li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li><a href="/business/group-business/">受託事業</a></li>
+                    <li><a href="/business/strage-business/">ストレージ事業</a></li>
+                  </ul>
+                </div>
+                <div class="header-submenu__col -col2">
+                  <ul class="header-other-links">
+                    <li><a href="/products/">製品・ソリューション</a></li>
+                  </ul>
+                </div>
+              </div>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="header-nav__item js-submenu-trigger">
+    <a href="/technology/" class="header-nav__link js-submenu-link"
+      ><span class="header-nav__label -label3"><span>技術・</span><span>生産</span></span></a
+    >
+    <div class="header-submenu js-submenu-parent">
+      <div class="header-submenu__bg">
+        <div class="header-submenu__inner js-submenu-child">
+          <dl class="header-submenu__list">
+            <dt class="header-submenu__head">
+              <a href="/technology/">技術・生産<j-link-icon shape="circle"></j-link-icon></a>
+            </dt>
+            <dd class="header-submenu__content">
+              <div class="header-submenu__row">
+                <div class="header-submenu__col -col1">
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/technology/development/">技術開発力</a>
+                      <ul>
+                        <li><a href="/technology/development/initiatives.html">技術開発における取り組み</a></li>
+                        <li><a href="/technology/development/technology.html">コアテクノロジー</a></li>
+                        <li><a href="/technology/development/evaluation.html">製品開発を支える試験評価</a></li>
+                        <li><a href="/technology/development/property.html">知的財産</a></li>
+                        <li><a href="/technology/development/design.html">デザイン</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/technology/productivity/">生産力</a>
+                      <ul>
+                        <li><a href="/technology/productivity/production.html">生産における取り組み</a></li>
+                        <li><a href="/technology/productivity/quality.html">品質管理</a></li>
+                        <li><a href="/technology/productivity/supply-chain.html">調達</a></li>
+                        <li>
+                          <a
+                            href="https://www.juki.co.jp/ohtawara/functions/industrial-sewing-machines/"
+                            target="_blank"
+                            >工業用ミシンの生産</a
+                          >
+                        </li>
+                        <li><a href="/technology/productivity/home-sewing.html">家庭用ミシンの生産</a></li>
+                        <li><a href="/technology/productivity/mounter.html">チップマウンタの生産</a></li>
+                        <li>
+                          <a href="https://www.juki.co.jp/monodzukuri/technology-fecundity/index.html" target="_blank"
+                            >受託事業（受託製造）の生産</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <div class="header-submenu__col -col2">
+                  <ul class="header-other-links">
+                    <li><a href="https://www.juki.co.jp/ohtawara/" target="_blank">大田原工場紹介</a></li>
+                  </ul>
+                </div>
+              </div>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="header-nav__item js-submenu-trigger">
+    <a href="/sustainability/" class="header-nav__link js-submenu-link"
+      ><span class="header-nav__label -label4"><span>サステナ</span><span>ビリティ</span></span></a
+    >
+    <div class="header-submenu js-submenu-parent">
+      <div class="header-submenu__bg">
+        <div class="header-submenu__inner js-submenu-child">
+          <dl class="header-submenu__list">
+            <dt class="header-submenu__head">
+              <a href="/sustainability/">サステナビリティ<j-link-icon shape="circle"></j-link-icon></a>
+            </dt>
+            <dd class="header-submenu__content">
+              <div class="header-submenu__row">
+                <div class="header-submenu__col -col1">
+                  <ul class="header-submenu-list">
+                    <li><a href="/sustainability/policy.html">JUKIのサステナビリティ</a></li>
+                    <li><a href="/sustainability/message.html">トップコミットメント</a></li>
+                    <li><a href="/sustainability/materiality.html">マテリアリティ</a></li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/sustainability/environment/">環境への取り組み</a>
+                      <ul>
+                        <li>
+                          <a href="/sustainability/environment/policy.html">JUKIグループ環境理念・環境方針</a>
+                        </li>
+                        <li><a href="/sustainability/environment/society.html">低炭素社会の実現</a></li>
+                        <li><a href="/sustainability/environment/procurement-logistics.html">グリーン調達・物流</a></li>
+                        <li><a href="/sustainability/environment/initiative.html">JUKIグループの取り組み</a></li>
+                        <li><a href="/sustainability/environment/iso.html">ISO14001の取得状況</a></li>
+                        <li><a href="/sustainability/environment/esg.html">環境パフォーマンスデータ</a></li>
+                        <li><a href="/sustainability/environment/report.html">環境報告書（バックナンバー）</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/sustainability/society/">社会への取り組み</a>
+                      <ul>
+                        <li><a href="/sustainability/society/issues.html">社会課題の解決</a></li>
+                        <li><a href="/company/hr.html">人材力強化</a></li>
+                        <li><a href="/sustainability/society/technology.html">SDGsに配慮した開発技術</a></li>
+                        <li><a href="/sustainability/society/human_rights.html">人権の尊重</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/sustainability/governance/">ガバナンスへの取り組み</a>
+                      <ul>
+                        <li><a href="/sustainability/governance/corporate.html">コーポレート・ガバナンス</a></li>
+                        <li><a href="/sustainability/governance/internal.html">内部統制システム</a></li>
+                        <li><a href="/sustainability/governance/compliance.html">コンプライアンス</a></li>
+                        <li><a href="/sustainability/governance/management.html">リスクマネジメント</a></li>
+                        <li><a href="/sustainability/governance/corporate-conduct.html">企業行動規範</a></li>
+                        <li><a href="/sustainability/governance/employee-conduct.html">社員行動規範</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="header-nav__item js-submenu-trigger">
+    <a href="/ir/" class="header-nav__link js-submenu-link"
+      ><span class="header-nav__label -label5"><span>株主・</span><span>投資家情報</span></span></a
+    >
+    <div class="header-submenu js-submenu-parent">
+      <div class="header-submenu__bg">
+        <div class="header-submenu__inner js-submenu-child">
+          <dl class="header-submenu__list">
+            <dt class="header-submenu__head">
+              <a href="/ir/">株主・投資家情報<j-link-icon shape="circle"></j-link-icon></a>
+            </dt>
+            <dd class="header-submenu__content">
+              <div class="header-submenu__row">
+                <div class="header-submenu__col -col1">
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/ir/management/">経営情報</a>
+                      <ul>
+                        <li><a href="/ir/management/message.html">トップメッセージ</a></li>
+                        <li><a href="/ir/management/process.html">企業価値創造プロセス</a></li>
+                        <li><a href="/ir/management/plan.html">中期経営計画</a></li>
+                        <li><a href="/company/officer.html">役員体制</a></li>
+                        <li><a href="/ir/management/governance.html">コーポレート・ガバナンス</a></li>
+                        <li><a href="/ir/management/disclosure.html">ディスクロージャーポリシー</a></li>
+                        <li><a href="/company/">企業情報</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="/ir/news/">IRニュース</a></li>
+                    <li><a href="/ir/calendar/">IRカレンダー</a></li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/ir/stock/">株式情報</a>
+                      <ul>
+                        <li><a href="/ir/stock/stock-info.html">株式基本情報</a></li>
+                        <li><a href="https://finance.yahoo.co.jp/quote/6440.T" target="_blank">株価情報</a></li>
+                        <li><a href="/ir/stock/procedure.html">株式事務手続き</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="/ir/finance/">業績ハイライト</a></li>
+                    <li><a href="/ir/notice/">電子公告</a></li>
+                    <li><a href="/ir/disclaimer/">免責事項</a></li>
+                  </ul>
+                  <ul class="header-submenu-list">
+                    <li>
+                      <a href="/ir/library/">IRライブラリー</a>
+                      <ul>
+                        <li><a href="/ir/library/financial/">決算短信</a></li>
+                        <li><a href="/ir/library/financial-results/">決算説明会資料</a></li>
+                        <li><a href="/ir/library/business-report/">事業報告書（株主の皆様へ）</a></li>
+                        <li><a href="/ir/library/securities-report/">有価証券報告書</a></li>
+                        <li><a href="/ir/library/meeting/">株主総会資料</a></li>
+                        <li><a href="/ir/library/integrated-report/">JUKI統合報告書</a></li>
+                        <li><a href="/ir/library/governance-report/">コーポレート・ガバナンス報告書</a></li>
+                        <li><a href="/ir/library/management/">中期経営計画</a></li>
+                        <li><a href="/ir/library/individual/">個人投資家向け説明会資料</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <div class="header-submenu__col -col2">
+                  <ul class="header-other-links">
+                    <li>
+                      <a href="/ir/individual/"><span>個人投資家の皆さまへ</span></a>
+                    </li>
+                    <li>
+                      <a href="/ir/faq/"><span>よくあるご質問</span></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li class="header-nav__item">
+    <a href="/recruit/" class="header-nav__link" target="_blank"
+      ><span class="header-nav__label -label6"><span>採用</span><span>情報</span></span></a
+    >
+  </li>
+  <li class="header-nav__item -product">
+    <a href="/products/" class="header-nav__link -product"
+      ><span><span>製品・</span><span>ソリューション</span></span></a
+    >
+  </li>
+  <li class="header-nav__item -btn2">
+    <a href="/contact/" class="header-nav__btn -mail"><j-icon name="mail"></j-icon></a>
+  </li>
+  <li
+    class="header-nav__item -btn3"
+    x-data="{langOpen: false}"
+    @mouseover="langOpen = true"
+    @mouseleave="langOpen = false"
+  >
+    <button class="header-nav__btn -lang" type="button"><j-icon name="lang"></j-icon><span>JP</span></button>
+
+    <div class="header-langmenu" x-show="langOpen" x-transition>
+      <ul class="header-langmenu__list">
+        <li class="header-langmenu__item"><a href="/" aria-current="page" class="header-langmenu__link">日本語</a></li>
+        <li class="header-langmenu__item"><a href="https://www.juki.co.jp/en/" class="header-langmenu__link" target="_blank">English</a></li>
+      </ul>
+    </div>
+  </li>
+</ul>
+<div class="menu">
+  <button class="menu__trigger" :class="menuOpen ? '-open': ''" type="button" @click="menuOpen = !menuOpen">
+    <svg width="24" height="18" viewBox="0 0 24 18" fill="none">
+      <rect y="0" width="24" height="2" rx="1" fill="#303030" />
+      <rect y="8" width="24" height="2" rx="1" fill="#303030" />
+      <rect y="16" width="24" height="2" rx="1" fill="#303030" />
+    </svg>
+  </button>
+
+  <div class="menu-content" x-show="menuOpen" x-transition x-transition.duration.500ms x-cloak>
+    <div class="menu-content__inner">
+      <div class="menu-content__item">
+        <ul class="menu-content__list" x-data="{openId : null}">
+          <li class="menu-content__list-item" x-data="{id: 'company', open: false}" x-effect="open = (openId === id)">
+            <div class="menu-content__row">
+              <div class="menu-content__col -col1">
+                <a href="/company/" class="menu-content__link">企業情報</a>
+              </div>
+              <div class="menu-content__col -col2">
+                <button
+                  type="button"
+                  class="menu-content__btn"
+                  aria-controls="header-company-menu"
+                  :aria-label="open ? '閉じる' : '開く'"
+                  :aria-expanded="open"
+                  @click="open = !open; openId = id"
+                ></button>
+              </div>
+            </div>
+            <div class="menu-content__body" :hidden="!open" id="header-company-menu">
+              <div class="menu-content__list-wrapper">
+                <ul class="menu-content__list-child">
+                  <li><a href="/company/message.html">トップメッセージ</a></li>
+                  <li><a href="/company/about.html">JUKI's Value Creation</a></li>
+                  <li><a href="/company/philosophy.html">JUKIグループ経営理念</a></li>
+                  <li><a href="/company/dx.html">DX（データドリブン経営）</a></li>
+                  <li><a href="/company/hr.html">人材力強化</a></li>
+                  <li><a href="/company/design-strategy.html">デザイン戦略</a></li>
+                  <li><a href="/company/overview.html">会社概要</a></li>
+                  <li><a href="/company/officer.html">役員体制</a></li>
+                  <li><a href="/business/">事業紹介</a></li>
+                  <li><a href="/company/group.html">グループ拠点</a></li>
+                  <li><a href="/company/history.html">沿革</a></li>
+                  <li><a href="/company/access.html">アクセス</a></li>
+                  <li><a href="https://www.juki.co.jp/showroom/" target="_blank">ショールーム見学</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li class="menu-content__list-item" x-data="{id: 'business', open: false}" x-effect="open = (openId === id)">
+            <div class="menu-content__row">
+              <div class="menu-content__col -col1">
+                <a href="/business/" class="menu-content__link">事業紹介</a>
+              </div>
+              <div class="menu-content__col -col2">
+                <button
+                  type="button"
+                  class="menu-content__btn"
+                  aria-controls="header-business-menu"
+                  :aria-label="open ? '閉じる' : '開く'"
+                  :aria-expanded="open"
+                  @click="open = !open; openId = id"
+                ></button>
+              </div>
+            </div>
+            <div class="menu-content__body" :hidden="!open" id="header-business-menu">
+              <div class="menu-content__list-wrapper">
+                <ul class="menu-content__list-child">
+                  <li><a href="/business/industrial/">工業用ミシン事業</a></li>
+                  <li><a href="/business/home-sewing/">家庭用ミシン事業</a></li>
+                  <li><a href="/business/smt-business/">産業装置事業</a></li>
+                  <li><a href="/business/group-business/">受託事業</a></li>
+                  <li><a href="/business/strage-business/">ストレージ事業</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li
+            class="menu-content__list-item"
+            x-data="{id: 'technology', open: false}"
+            x-effect="open = (openId === id)"
+          >
+            <div class="menu-content__row">
+              <div class="menu-content__col -col1">
+                <a href="/technology/" class="menu-content__link">技術・生産</a>
+              </div>
+              <div class="menu-content__col -col2">
+                <button
+                  type="button"
+                  class="menu-content__btn"
+                  aria-controls="header-technology-menu"
+                  :aria-label="open ? '閉じる' : '開く'"
+                  :aria-expanded="open"
+                  @click="open = !open; openId = id"
+                ></button>
+              </div>
+            </div>
+            <div class="menu-content__body" :hidden="!open" id="header-technology-menu">
+              <div class="menu-content__list-wrapper">
+                <ul class="menu-content__list-child">
+                  <li><a href="/technology/development/">技術開発力</a></li>
+                  <li><a href="/technology/productivity/">生産力</a></li>
+                  <li><a href="https://www.juki.co.jp/ohtawara/" target="_blank">大田原工場紹介</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li
+            class="menu-content__list-item"
+            x-data="{id: 'sustainability', open: false}"
+            x-effect="open = (openId === id)"
+          >
+            <div class="menu-content__row">
+              <div class="menu-content__col -col1">
+                <a href="/sustainability/" class="menu-content__link">サステナビリティ</a>
+              </div>
+              <div class="menu-content__col -col2">
+                <button
+                  type="button"
+                  class="menu-content__btn"
+                  aria-controls="header-sustainability-menu"
+                  :aria-label="open ? '閉じる' : '開く'"
+                  :aria-expanded="open"
+                  @click="open = !open; openId = id"
+                ></button>
+              </div>
+            </div>
+            <div class="menu-content__body" :hidden="!open" id="header-sustainability-menu">
+              <div class="menu-content__list-wrapper">
+                <ul class="menu-content__list-child">
+                  <li><a href="/sustainability/policy.html">JUKIのサステナビリティ</a></li>
+                  <li><a href="/sustainability/message.html">トップコミットメント</a></li>
+                  <li><a href="/sustainability/materiality.html">マテリアリティ</a></li>
+                  <li><a href="/sustainability/environment/">環境への取り組み</a></li>
+                  <li><a href="/sustainability/society/">社会への取り組み</a></li>
+                  <li><a href="/sustainability/governance/">ガバナンスへの取り組み</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li class="menu-content__list-item" x-data="{id: 'ir', open: false}" x-effect="open = (openId === id)">
+            <div class="menu-content__row">
+              <div class="menu-content__col -col1">
+                <a href="/ir/" class="menu-content__link">株主・投資家情報</a>
+              </div>
+              <div class="menu-content__col -col2">
+                <button
+                  type="button"
+                  class="menu-content__btn"
+                  aria-controls="header-ir-menu"
+                  :aria-label="open ? '閉じる' : '開く'"
+                  :aria-expanded="open"
+                  @click="open = !open; openId = id"
+                ></button>
+              </div>
+            </div>
+            <div class="menu-content__body" :hidden="!open" id="header-ir-menu">
+              <div class="menu-content__list-wrapper">
+                <ul class="menu-content__list-child">
+                  <li><a href="/ir/news/">IRニュース</a></li>
+                  <li><a href="/ir/management/">経営情報</a></li>
+                  <li><a href="/ir/stock/">株式情報</a></li>
+                  <li><a href="/company/">企業情報</a></li>
+                  <li><a href="/ir/finance/">業績ハイライト</a></li>
+                  <li><a href="/ir/library/">IRライブラリー</a></li>
+                  <li><a href="/ir/calendar/">IRカレンダー</a></li>
+                  <li><a href="/ir/individual/">個人投資家の皆さまへ</a></li>
+                  <li><a href="/ir/notice/">電子公告</a></li>
+                  <li><a href="/ir/disclaimer/">免責事項</a></li>
+                  <li><a href="/ir/faq/">よくあるご質問</a></li>
+                </ul>
+              </div>
+            </div>
+          </li>
+          <li class="menu-content__list-item">
+            <a href="/news/" class="menu-content__link">ニュース</a>
+          </li>
+          <li class="menu-content__list-item">
+            <a href="https://www.juki.co.jp/recruit/" target="_blank" class="menu-content__link">採用情報</a>
+          </li>
+          <li class="menu-content__list-item -product">
+            <a href="/products/" class="menu-content__link-product">製品・ソリューション</a>
+          </li>
+        </ul>
+                  <p class="menu-content__banner">
+          <a href="/company/about.html">
+            <img src="/assets/images/common/sp/header-banner.png" alt="JUKI's Value Creation 持続可能な未来を創造するために"/>
+          </a>
+        </p>
+      </div>
+      <div class="menu-content__item">
+        <ul class="menu-utility">
+          <li class="menu-utility__item">
+            <button class="menu-utility__btn -lang" type="button" data-micromodal-trigger="modal-menu-language">
+              <span>JP</span>
+            </button>
+            <div class="modal" id="modal-menu-language" aria-hidden="true">
+              <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+                <div role="dialog" aria-modal="true" class="menu-language">
+                  <ul class="menu-language__list">
+                    <li class="menu-language__item">
+                      <a href="https://www.juki.co.jp/" class="menu-language__link">日本語</a>
+                    </li>
+                    <li class="menu-language__item">
+                      <a href="https://www.juki.co.jp/en/" class="menu-language__link">English</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="menu-utility__item">
+            <a href="/contact/" class="menu-utility__btn -mail">
+              <span>お問い合わせ</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</nav>
+    </div>
+  </div>
+</header>
+
+<div class="contents">
+<div class="main">
+  <div class="center -w912 mt-96 sp:mt-48">
+    <div class="box-404">
+      <h1 class="box-404__head">ご指定のページが見つかりません。</h1>
+      <p class="box-404__desc">
+        申し訳ございません。お客様がお探しのページが見つかりませんでした。削除されたか、入力したURLが間違っている可能性があります。お手数ですが、上部メニューバーから目的のページをお探しください。
+      </p>
+    </div>
+    <p class="text-center mt-64 sp:mt-32"><a href="/" class="link-top">トップページに戻る</a></p>
+  </div>
+  <p class="link-pagetop js-pagetop">
+    <a href="#top"><span>ページトップへ</span></a>
+  </p>
+</div>
+<nav aria-label="パンくずリスト" class="breadcrumb">
+  <ol>
+    <li><a href="/">ホーム</a></li>
+    <li><a href="/404.html" aria-current="page">ご指定のページが見つかりません</a></li>
+  </ol>
+</nav>
+</div>
+<footer class="footer js-footer">
+  <div class="footer__inner">
+    <div class="sp:hidden">
+      <div class="footer-nav">
+        <div class="footer-nav__item">
+          <dl class="footer-nav__dl">
+            <dt class="footer-nav__dt"><a href="/company/">企業情報</a></dt>
+            <dd class="footer-nav__dd">
+              <div>
+                <ul class="footer-nav__list">
+                  <li><a href="/company/message.html">トップメッセージ</a></li>
+                  <li><a href="/company/about.html">JUKI's Value Creation</a></li>
+                  <li><a href="/company/philosophy.html">JUKIグループ経営理念</a></li>
+                  <li><a href="/company/dx.html">DX（データドリブン経営）</a></li>
+                  <li><a href="/company/hr.html">人材力強化</a></li>
+                  <li><a href="/company/design-strategy.html">デザイン戦略</a></li>
+                  <li><a href="/company/overview.html">会社概要</a></li>
+                </ul>
+              </div>
+              <div>
+                <ul class="footer-nav__list">
+                  <li><a href="/company/officer.html">役員体制</a></li>
+                  <li><a href="/business/">事業紹介</a></li>
+                  <li><a href="/company/group.html">グループ拠点</a></li>
+                  <li><a href="/company/history.html">沿革</a></li>
+                  <li><a href="/company/access.html">アクセス</a></li>
+                  <li><a href="https://www.juki.co.jp/showroom/" target="_blank">ショールーム見学</a></li>
+                </ul>
+              </div>
+            </dd>
+          </dl>
+        </div>
+        <div class="footer-nav__item">
+          <dl class="footer-nav__dl">
+            <dt class="footer-nav__dt"><a href="/business/">事業紹介</a></dt>
+            <dd class="footer-nav__dd">
+              <ul class="footer-nav__list">
+                <li><a href="/business/industrial/">工業用ミシン事業</a></li>
+                <li><a href="/business/home-sewing/">家庭用ミシン事業</a></li>
+                <li><a href="/business/smt-business/">産業装置事業</a></li>
+                <li><a href="/business/group-business/">受託事業</a></li>
+                <li><a href="/business/strage-business/">ストレージ事業</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="footer-nav__item">
+          <dl class="footer-nav__dl">
+            <dt class="footer-nav__dt"><a href="/technology/">技術・生産</a></dt>
+            <dd class="footer-nav__dd">
+              <ul class="footer-nav__list">
+                <li><a href="/technology/development/">技術開発力</a></li>
+                <li><a href="/technology/productivity/">生産力</a></li>
+                <li><a href="https://www.juki.co.jp/ohtawara/" target="_blank">大田原工場紹介</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+
+        <div class="footer-nav__item">
+          <dl class="footer-nav__dl">
+            <dt class="footer-nav__dt"><a href="/sustainability/">サステナビリティ</a></dt>
+            <dd class="footer-nav__dd">
+              <ul class="footer-nav__list">
+                <li><a href="/sustainability/policy.html">JUKIのサステナビリティ</a></li>
+                <li><a href="/sustainability/message.html">トップコミットメント</a></li>
+                <li><a href="/sustainability/materiality.html">マテリアリティ</a></li>
+                <li><a href="/sustainability/environment/">環境への取り組み</a></li>
+                <li><a href="/sustainability/society/">社会への取り組み</a></li>
+                <li><a href="/sustainability/governance/">ガバナンスへの取り組み</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="footer-nav__item">
+          <dl class="footer-nav__dl">
+            <dt class="footer-nav__dt"><a href="/ir/">株主・投資家情報</a></dt>
+            <dd class="footer-nav__dd">
+              <div>
+                <ul class="footer-nav__list">
+                  <li><a href="/ir/news/">IRニュース</a></li>
+                  <li><a href="/ir/management/">経営情報</a></li>
+                  <li><a href="/ir/stock/">株式情報</a></li>
+                  <li><a href="/company/">企業情報</a></li>
+                  <li><a href="/ir/finance/">業績ハイライト</a></li>
+                  <li><a href="/ir/library/">IRライブラリー</a></li>
+                </ul>
+              </div>
+              <div>
+                <ul class="footer-nav__list">
+                  <li><a href="/ir/calendar/">IRカレンダー</a></li>
+                  <li><a href="/ir/individual/">個人投資家の皆さまへ</a></li>
+                  <li><a href="/ir/notice/">電子公告</a></li>
+                  <li><a href="/ir/disclaimer/">免責事項</a></li>
+                  <li><a href="/ir/faq/">よくあるご質問</a></li>
+                </ul>
+              </div>
+            </dd>
+          </dl>
+        </div>
+        <div class="footer-nav__item">
+          <dl class="footer-nav__dl">
+            <dt class="footer-nav__dt"><a href="/products/">製品・ソリューション</a></dt>
+            <dd class="footer-nav__dd">
+              <ul class="footer-nav__list">
+                <li><a href="https://www.juki.co.jp/industrial_j/" target="_blank">工業用ミシン</a></li>
+                <li><a href="https://www.juki.co.jp/smt/" target="_blank">実装関連装置</a></li>
+                <li><a href="https://www.juki.co.jp/household_ja/" target="_blank">家庭用ミシン</a></li>
+                <li><a href="https://www.juki.co.jp/monodzukuri/" target="_blank">受託開発・製造</a></li>
+                <li><a href="https://www.juki.co.jp/automation/solution/parts-management/" target="_blank">自動倉庫</a></li>
+                <li><a href="https://www.juki-ps.co.jp/vital-sensing" target="_blank">スリープバスター</a></li>
+                <li><a href="https://www.juki-ps.co.jp/robotics-system" target="_blank">サービスロボット</a></li>
+                <li><a href="https://www.juki.co.jp/entry/" target="_blank">データエントリー</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="footer-nav__item -nobg">
+          <ul class="footer-links">
+            <li class="footer-links__item"><a href="/news/" class="footer-links__link -news">ニュース</a></li>
+            <li class="footer-links__item">
+              <a href="https://www.juki.co.jp/recruit/" class="footer-links__link" target="_blank">採用情報</a>
+            </li>
+            <li class="footer-links__item"><a href="/contact/" class="footer-links__link -mail">お問い合わせ</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__row">
+        <div class="footer__col -col1">
+          <ul class="footer-utility">
+            <li><a href="/policy/">個人情報保護方針</a></li>
+            <li><a href="/sitemap/">サイトマップ</a></li>
+             <li>
+              <!-- OneTrust Cookie 設定ボタンの始点 -->
+              <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie 設定</button>
+              <!-- OneTrust Cookie 設定ボタンの終点 -->
+            </li>
+          </ul>
+        </div>
+        <div class="footer__col -col2">
+          <p class="footer__copyright">Copyright JUKI CORPORATION. All Rights Reserved.</p>
+        </div>
+      </div>
+      <div class="full">
+        <p class="footer__logo"><img src="/assets/images/common/logo.svg" width="116" height="20" alt="" /></p>
+      </div>
+    </div>
+    <div class="pc:hidden">
+      <div class="footer-menu">
+  <ul class="footer-menu__list" x-data="{openId: null}">
+    <li class="footer-menu__item" x-data="{id: 'company', open: false}" x-effect="open = (openId === id)">
+      <div class="footer-menu__row">
+        <div class="footer-menu__col -col1">
+          <a href="/company/" class="footer-menu__link">企業情報</a>
+        </div>
+        <div class="footer-menu__col -col2">
+          <button
+            type="button"
+            class="footer-menu__btn"
+            aria-controls="footer-company-menu"
+            :aria-label="open ? '閉じる' : '開く'"
+            :aria-expanded="open"
+            @click="open = !open; openId = id"
+          ></button>
+        </div>
+      </div>
+      <div class="footer-menu__body" :hidden="!open" id="footer-company-menu">
+        <div class="footer-menu__list-wrapper">
+          <ul class="footer-menu__list-child">
+            <li><a href="/company/message.html">トップメッセージ</a></li>
+            <li><a href="/company/about.html">JUKI's Value Creation</a></li>
+            <li><a href="/company/philosophy.html">JUKIグループ経営理念</a></li>
+            <li><a href="/company/dx.html">DX（データドリブン経営）</a></li>
+            <li><a href="/company/hr.html">人材力強化</a></li>
+            <li><a href="/company/design-strategy.html">デザイン戦略</a></li>
+            <li><a href="/company/overview.html">会社概要</a></li>
+            <li><a href="/company/officer.html">役員体制</a></li>
+            <li><a href="/business/">事業紹介</a></li>
+            <li><a href="/company/group.html">グループ拠点</a></li>
+            <li><a href="/company/history.html">沿革</a></li>
+            <li><a href="/company/access.html">アクセス</a></li>
+            <li><a href="https://www.juki.co.jp/showroom/" target="_blank">ショールーム見学</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+
+    <li class="footer-menu__item" x-data="{id: 'business', open: false}" x-effect="open = (openId === id)">
+      <div class="footer-menu__row">
+        <div class="footer-menu__col -col1">
+          <a href="/business/" class="footer-menu__link">事業紹介</a>
+        </div>
+        <div class="footer-menu__col -col2">
+          <button
+            type="button"
+            class="footer-menu__btn"
+            aria-controls="footer-business-menu"
+            :aria-label="open ? '閉じる' : '開く'"
+            :aria-expanded="open"
+            @click="open = !open; openId = id"
+          ></button>
+        </div>
+      </div>
+      <div class="footer-menu__body" :hidden="!open" id="footer-business-menu">
+        <div class="footer-menu__list-wrapper">
+          <ul class="footer-menu__list-child">
+            <li><a href="/business/industrial/">工業用ミシン事業</a></li>
+            <li><a href="/business/home-sewing/">家庭用ミシン事業</a></li>
+            <li><a href="/business/smt-business/">産業装置事業</a></li>
+            <li><a href="/business/group-business/">受託事業</a></li>
+            <li><a href="/business/strage-business/">ストレージ事業</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="footer-menu__item" x-data="{id: 'technology', open: false}" x-effect="open = (openId === id)">
+      <div class="footer-menu__row">
+        <div class="footer-menu__col -col1">
+          <a href="/technology/" class="footer-menu__link">技術・生産</a>
+        </div>
+        <div class="footer-menu__col -col2">
+          <button
+            type="button"
+            class="footer-menu__btn"
+            aria-controls="footer-technology-menu"
+            :aria-label="open ? '閉じる' : '開く'"
+            :aria-expanded="open"
+            @click="open = !open; openId = id"
+          ></button>
+        </div>
+      </div>
+      <div class="footer-menu__body" :hidden="!open" id="footer-technology-menu">
+        <div class="footer-menu__list-wrapper">
+          <ul class="footer-menu__list-child">
+            <li><a href="/technology/development/">技術開発力</a></li>
+            <li><a href="/technology/productivity/">生産力</a></li>
+            <li><a href="https://www.juki.co.jp/ohtawara/" target="_blank">大田原工場紹介</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="footer-menu__item" x-data="{id: 'sustainability', open: false}" x-effect="open = (openId === id)">
+      <div class="footer-menu__row">
+        <div class="footer-menu__col -col1">
+          <a href="/sustainability/" class="footer-menu__link">サステナビリティ</a>
+        </div>
+        <div class="footer-menu__col -col2">
+          <button
+            type="button"
+            class="footer-menu__btn"
+            aria-controls="footer-sustainability-menu"
+            :aria-label="open ? '閉じる' : '開く'"
+            :aria-expanded="open"
+            @click="open = !open; openId = id"
+          ></button>
+        </div>
+      </div>
+      <div class="footer-menu__body" :hidden="!open" id="footer-sustainability-menu">
+        <div class="footer-menu__list-wrapper">
+          <ul class="footer-menu__list-child">
+            <li><a href="/sustainability/policy.html">JUKIのサステナビリティ</a></li>
+            <li><a href="/sustainability/message.html">トップコミットメント</a></li>
+            <li><a href="/sustainability/materiality.html">マテリアリティ</a></li>
+            <li><a href="/sustainability/environment/">環境への取り組み</a></li>
+            <li><a href="/sustainability/society/">社会への取り組み</a></li>
+            <li><a href="/sustainability/governance/">ガバナンスへの取り組み</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="footer-menu__item" x-data="{id: 'ir', open: false}" x-effect="open = (openId === id)">
+      <div class="footer-menu__row">
+        <div class="footer-menu__col -col1">
+          <a href="/ir/" class="footer-menu__link">株主・投資家情報</a>
+        </div>
+        <div class="footer-menu__col -col2">
+          <button
+            type="button"
+            class="footer-menu__btn"
+            aria-controls="footer-ir-menu"
+            :aria-label="open ? '閉じる' : '開く'"
+            :aria-expanded="open"
+            @click="open = !open; openId = id"
+          ></button>
+        </div>
+      </div>
+      <div class="footer-menu__body" :hidden="!open" id="footer-ir-menu">
+        <div class="footer-menu__list-wrapper">
+          <ul class="footer-menu__list-child">
+            <li><a href="/ir/news/">IRニュース</a></li>
+            <li><a href="/ir/management/">経営情報</a></li>
+            <li><a href="/ir/stock/">株式情報</a></li>
+            <li><a href="/company/">企業情報</a></li>
+            <li><a href="/ir/finance/">業績ハイライト</a></li>
+            <li><a href="/ir/library/">IRライブラリー</a></li>
+            <li><a href="/ir/calendar/">IRカレンダー</a></li>
+            <li><a href="/ir/individual/">個人投資家の皆さまへ</a></li>
+            <li><a href="/ir/notice/">電子公告</a></li>
+            <li><a href="/ir/disclaimer/">免責事項</a></li>
+            <li><a href="/ir/faq/">よくあるご質問</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="footer-menu__item">
+      <a href="/news/" class="footer-menu__link">ニュース</a>
+    </li>
+    <li class="footer-menu__item">
+      <a href="https://www.juki.co.jp/recruit/" target="_blank" class="footer-menu__link">採用情報</a>
+    </li>
+    <li class="footer-menu__item -product">
+      <a href="/products/" class="footer-menu__link-product">製品・ソリューション</a>
+    </li>
+  </ul>
+</div>
+
+
+      <ul class="footer-utility">
+        <li><a href="/sitemap/">サイトマップ</a></li>
+        <li><a href="/contact/">お問い合わせ</a></li>
+        <li><a href="/policy/">個人情報保護方針</a></li>
+         <li>
+          <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie 設定</button>
+        </li>
+      </ul>
+      <p class="footer__copyright">Copyright JUKI CORPORATION. All Rights Reserved.</p>
+      <p class="footer__logo"><img src="/assets/images/common/logo.svg" width="116" height="20" alt="" /></p>
+    </div>
+  </div>
+</footer>
+</div>
+</body>
+</html>
